@@ -10,3 +10,11 @@
 
 ## 其它
 这是基于 https://github.com/bigBulen/DCGAN 的改进，所以其他参数基本没有变化，可以参考前者。
+
+## 效果
+- GPU：rtx3060 12g
+
+迭代49次：
+![samples_epoch49_iter23](https://github.com/user-attachments/assets/e4415e66-db82-4ae3-a05a-25198d815854)
+
+
